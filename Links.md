@@ -18,7 +18,7 @@ https://docs.microsoft.com/en-us/learn/paths/implement-manage-information-protec
 https://docs.microsoft.com/en-us/learn/paths/manage-governance-compliance-features-microsoft-365/
 
 
-More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured) coming soon!
 -------------------
 
 **Implement and manage identity and access:**

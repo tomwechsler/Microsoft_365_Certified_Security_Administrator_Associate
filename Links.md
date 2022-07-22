@@ -35,6 +35,14 @@ https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/manage-license-
 
 https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users
 
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/tutorial-password-hash-sync
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-configure-ad-ds-connector-account
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

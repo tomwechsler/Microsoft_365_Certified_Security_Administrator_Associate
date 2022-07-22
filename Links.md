@@ -23,6 +23,18 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Implement and manage identity and access:**
 
+https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal-assign-users
+
+https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-bulk-add
+
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal
+
+https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-create-rule
+
+https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/manage-license-requests
+
+https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

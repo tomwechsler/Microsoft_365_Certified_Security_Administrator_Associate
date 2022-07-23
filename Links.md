@@ -55,6 +55,32 @@ https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/v
 
 https://docs.microsoft.com/en-us/azure/active-directory/external-identities/cross-tenant-access-overview
 
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-registration-mfa-sspr-combined
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-resilient-controls
+
+https://docs.microsoft.com/en-us/graph/api/resources/authenticationmethods-overview
+
+https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-authenticator-app
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-oath-tokens
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-authentication-sms-signin
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-phone-options
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises
+
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-password-ban-bad-on-premises-operations
+
+https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-implementing-azure-ad-password-protection-on/ba-p/563342
+
+https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-configure-single-sign-on-with-kcd
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

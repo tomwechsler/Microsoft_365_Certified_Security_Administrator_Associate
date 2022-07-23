@@ -43,6 +43,18 @@ https://docs.microsoft.com/en-us/azure/active-directory/hybrid/
 
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-configure-ad-ds-connector-account
 
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/delegate-invitations
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b
+
+https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/decentralized-identifier-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities/cross-tenant-access-overview
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

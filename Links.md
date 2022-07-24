@@ -103,6 +103,24 @@ https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-
 
 https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-continuous-access-evaluation
 
+https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-start-access-review
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/groups-features
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms-of-use
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-scenarios
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-access-package-assignments
+
+https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-organization
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

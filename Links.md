@@ -139,6 +139,28 @@ https://docs.microsoft.com/en-us/defender-for-identity/what-is
 
 **Implement and manage threat protection:**
 
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/production-deployment
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/onboard-configure
+
+https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888
+
+https://docs.microsoft.com/en-us/office365/Enterprise/office-365-monitoring-and-testing#assume-breach-methodology
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-overview#benefits-of-windows-defender-smartscreen
+
+https://docs.microsoft.com/en-us/mem/intune/fundamentals/scope-tags#to-create-a-scope-tag
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard#install-application-guard
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/configure-md-app-guard
+
+https://docs.microsoft.com/en-us/deployedge/microsoft-edge-security-smartscreen#microsoft-defender-smartscreen-setup-for-admins
+
+https://www.youtube.com/playlist?list=PLXtHYVsvn_b-uXh1tMeYpT-0iD8tD3tFy
+
+https://www.youtube.com/c/MicrosoftMechanicsSeries
+
 **Implement and manage information protection:**
 
 **Manage governance and compliance features in Microsoft 365:**

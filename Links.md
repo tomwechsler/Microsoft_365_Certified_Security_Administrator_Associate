@@ -121,6 +121,22 @@ https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-m
 
 https://docs.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-organization
 
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-registration-mfa-sspr-combined
+
+https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies
+
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-notifications
+
+https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-policies
+
+https://docs.microsoft.com/en-us/defender-for-identity/what-is
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

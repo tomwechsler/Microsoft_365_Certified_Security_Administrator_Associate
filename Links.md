@@ -81,6 +81,28 @@ https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-implementing
 
 https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-configure-single-sign-on-with-kcd
 
+https://youtu.be/ffMAw2IVO7A
+
+https://youtu.be/c_izIRNJNuk
+
+https://youtu.be/0_Fze7Zpyvc
+
+https://youtu.be/NcONUf-jeS4
+
+https://youtu.be/Tbc-SU97G-w
+
+https://youtu.be/A7IrxAH87wc
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/location-condition
+
+https://docs.microsoft.com/en-us/mem/intune/protect/device-compliance-get-started
+
+https://techcommunity.microsoft.com/t5/azure-active-directory-identity/introducing-security-defaults/ba-p/1061414
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-continuous-access-evaluation
+
 **Implement and manage threat protection:**
 
 **Implement and manage information protection:**

@@ -269,7 +269,7 @@ https://docs.microsoft.com/en-us/azure/active-directory/active-directory-privile
 
 https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure/
 
-
+https://docs.microsoft.com/en-us/microsoft-365/compliance/customer-lockbox-requests?frequently-asked-questions%3Fazure-portal=true
 
 Here's another list of helpful links:
 ----------------

@@ -163,6 +163,26 @@ https://www.youtube.com/c/MicrosoftMechanicsSeries
 
 **Implement and manage information protection:**
 
+https://docs.microsoft.com/en-us/microsoft-365/compliance/create-custom-sensitive-information-types-with-exact-data-match-based-classification?view=o365-worldwide%3Fazure-portal%3Dtrue
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments
+
+https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
+
+https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app
+
+https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-assign-sensitivity-labels
+
+https://docs.microsoft.com/en-us/azure/information-protection/rms-client/clientv2-admin-guide-powershell
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide%3Fazure-portal%3Dtrue
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide%3Fazure-portal%3Dtrue
+
+https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies
+
+https://docs.microsoft.com/en-us/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide%3Fazure-portal%3Dtrue
+
 **Manage governance and compliance features in Microsoft 365:**
 
 
